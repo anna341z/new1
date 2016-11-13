@@ -9,6 +9,7 @@ public class Main {
         {
             a=a+1;
             System.out.println(a);
+            System.out.println("an");
         }
     }
 }
